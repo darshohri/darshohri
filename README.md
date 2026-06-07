@@ -110,19 +110,11 @@ Currently planning and developing a data-focused project involving analytics, vi
 
 ---
 
-## 📈 GitHub Stats
-
-![Darsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshohri\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshohri\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darsh-ohri/)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:darshohri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:darshohri@gmail.com)
 
 ---
 
