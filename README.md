@@ -2,11 +2,11 @@
 
 # Hi there, I'm Darsh Ohri 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+Student;Full-Stack+Developer;Hackathon+Enthusiast;ACM+Core+Member;Building+AI-Powered+Solutions+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full-Stack+Developer;ACM+Core+Member;Hackathon+Enthusiast;Building+AI-Powered+Solutions" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile+Views&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (Data Science) @ NMIMS Chandigarh
-* 💻 Passionate about AI, Data Science, Full-Stack Development, and Problem Solving
-* 🏆 ACM Core Member & Active Hackathon Participant
-* 🌱 Currently learning Machine Learning, DSA, System Design, and Modern Web Development
-* ⚡ I enjoy building products that solve real-world problems
+* 💻 Interested in AI, Data Science, Full-Stack Development, and Software Engineering
+* 🏆 ACM Core Member & Hackathon Participant
+* 🌱 Currently learning Machine Learning, DSA, System Design, and Cloud Technologies
+* ⚡ Building projects that combine intelligent systems with modern web technologies
 
 ---
 
@@ -36,8 +36,8 @@
 
 * 🚀 Built AI-powered applications using Gemini API
 * 🎟️ Developed EventHub – Event Registration & Ticketing Platform
-* 🌐 Designed and deployed personal portfolio projects
-* 💡 Passionate about combining AI, data, and software engineering to create impactful solutions
+* 🌐 Designed and deployed portfolio and web projects
+* 💡 Exploring AI, Data Science, and Full-Stack Development
 
 ---
 
@@ -45,35 +45,31 @@
 
 ### 🎟️ EventHub
 
-A modern platform for event registration, ticketing, and attendance management.
+Modern event registration, ticketing, and attendance management platform.
 
-**Tech Stack:** React • Node.js • MongoDB • Express
-
----
+**Tech Stack:** React • Node.js • Express • MongoDB
 
 ### 🤖 AI Chatbot
 
-An intelligent conversational assistant powered by Gemini API.
+Conversational AI assistant powered by Gemini API.
 
-**Tech Stack:** JavaScript • Gemini API • HTML • CSS
-
----
+**Tech Stack:** HTML • CSS • JavaScript • Gemini API
 
 ### 🌐 Personal Portfolio
 
-A responsive portfolio showcasing projects, achievements, and technical skills.
+Responsive portfolio showcasing projects, achievements, and technical skills.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshohri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshohri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshohri&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -83,7 +79,7 @@ A responsive portfolio showcasing projects, achievements, and technical skills.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshohri&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=darshohri&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -91,7 +87,11 @@ A responsive portfolio showcasing projects, achievements, and technical skills.
 
 ## 📈 Activity Graph
 
-[![Darsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darshohri\&theme=tokyo-night)]()
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshohri&theme=github-dark&hide_border=true" />
+
+</div>
 
 ---
 
@@ -100,7 +100,7 @@ A responsive portfolio showcasing projects, achievements, and technical skills.
 * Machine Learning
 * Data Structures & Algorithms
 * Generative AI Applications
-* System Design Fundamentals
+* System Design
 * Cloud & Deployment Technologies
 
 ---
@@ -119,11 +119,11 @@ A responsive portfolio showcasing projects, achievements, and technical skills.
 
 <div align="center">
 
-### Code. Build. Learn. Repeat. 🚀
+### Code • Build • Learn • Repeat 🚀
 
 </div>
 
-<!-- Contribution Snake (enable after adding GitHub Action)
+<!-- Enable later via GitHub Action
 
 ![snake gif](https://github.com/darshohri/darshohri/blob/output/github-contribution-grid-snake.svg)
 
