@@ -48,7 +48,7 @@
 
 ## 🏆 Achievements
 
-* 🥉 Second Runner-Up at Hack-O-Mania 2.0
+* 🥉 Participant at Hack-O-Mania 2.0
 * 🏅 ACM Core Member
 * 🚀 Built multiple AI, web, and software development projects
 * 🎯 Active participant in hackathons and technical competitions
@@ -61,7 +61,7 @@
 
 Created a patient record matching system for Hack-O-Mania 2.0 that reconciles duplicate records across disparate healthcare databases.
 
-**Tech Stack:** AI • Data Matching • Healthcare Technology
+**Tech Stack:** Next.js • React • TailwindCSS • FastAPI • Python • PostgreSQL
 
 ---
 
