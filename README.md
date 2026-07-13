@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (Data Science) @ NMIMS Chandigarh
-* 💻 Interested in AI, Data Science, Full-Stack Development, and Software Engineering
+* 💻 Passionate about AI, Data Science, Full-Stack Development, and Software Engineering
 * 🏆 ACM Core Member & Hackathon Participant
 * 🌱 Currently learning Machine Learning, DSA, System Design, and Cloud Technologies
-* ⚡ Building projects that combine intelligent systems with modern web technologies
+* ⚡ Building intelligent and user-focused applications that solve real-world problems
 
 ---
 
@@ -32,16 +32,62 @@
 
 ---
 
-## 🏆 Highlights
+## 🌐 Portfolio
 
-* 🚀 Built AI-powered applications using Gemini API
-* 🎟️ Developed EventHub – Event Registration & Ticketing Platform
-* 🌐 Designed and deployed portfolio and web projects
-* 💡 Exploring AI, Data Science, and Full-Stack Development
+<div align="center">
+
+### 🚀 Explore My Portfolio
+
+<a href="https://portfolio-darshohri.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+* 🥉 Second Runner-Up at Hack-O-Mania 2.0
+* 🏅 ACM Core Member
+* 🚀 Built multiple AI, web, and software development projects
+* 🎯 Active participant in hackathons and technical competitions
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏥 Lumiere
+
+Created a patient record matching system for Hack-O-Mania 2.0 that reconciles duplicate records across disparate healthcare databases.
+
+**Tech Stack:** AI • Data Matching • Healthcare Technology
+
+---
+
+### 🤖 BYOK (Bring Your Own Key)
+
+An AI chatbot assistant that enables users to securely use their own Google Gemini API key for personalized AI interactions.
+
+**Tech Stack:** JavaScript • Gemini API • HTML • CSS
+
+---
+
+### 🥗 NutriDish
+
+Built an adaptive meal planning platform that helps users analyze ingredient nutrition and monitor daily calorie limits.
+
+**Tech Stack:** Java • OOP • Data Management
+
+---
+
+### 🎓 Campus Connect
+
+Developed a responsive web application that connects university students with alumni mentors for career guidance and professional networking.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+---
 
 ### 🎟️ EventHub
 
@@ -49,27 +95,13 @@ Modern event registration, ticketing, and attendance management platform.
 
 **Tech Stack:** React • Node.js • Express • MongoDB
 
-### 🤖 AI Chatbot
-
-Conversational AI assistant powered by Gemini API.
-
-**Tech Stack:** HTML • CSS • JavaScript • Gemini API
-
-### 🌐 Personal Portfolio
-
-Responsive portfolio showcasing projects, achievements, and technical skills.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
 ---
 
-## 📊 GitHub Statistics
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshohri&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=darshohri&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -113,17 +145,29 @@ Responsive portfolio showcasing projects, achievements, and technical skills.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+   
+
+<a href="mailto:darshohri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+   
+
+<a href="https://portfolio-darshohri.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### Code • Build • Learn • Repeat 🚀
+### 💡 Code • Build • Learn • Repeat 🚀
 
 </div>
 
-<!-- Enable later via GitHub Action
+<!-- Enable after setting up the GitHub Snake Action
 
 ![snake gif](https://github.com/darshohri/darshohri/blob/output/github-contribution-grid-snake.svg)
 
