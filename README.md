@@ -1,121 +1,130 @@
-# Hi, I'm Darsh Ohri 👋
+<div align="center">
 
-### B.Tech CSE (Data Science) Student @ NMIMS Chandigarh
+# Hi there, I'm Darsh Ohri 👋
 
-💻 Passionate about AI, Data Science, Software Development, and Digital Creativity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+Student;Full-Stack+Developer;Hackathon+Enthusiast;ACM+Core+Member;Building+AI-Powered+Solutions+🚀" />
 
-🚀 Currently building projects that combine intelligent systems, data-driven insights, and modern web technologies.
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile+Views&style=for-the-badge&color=0e75b6" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm a first-year Computer Science (Data Science) student who enjoys turning ideas into practical projects.
+* 🎓 B.Tech CSE (Data Science) @ NMIMS Chandigarh
+* 💻 Passionate about AI, Data Science, Full-Stack Development, and Problem Solving
+* 🏆 ACM Core Member & Active Hackathon Participant
+* 🌱 Currently learning Machine Learning, DSA, System Design, and Modern Web Development
+* ⚡ I enjoy building products that solve real-world problems
 
-My interests lie at the intersection of:
+---
 
-* Artificial Intelligence
-* Data Science & Analytics
-* Software Development
-* Problem Solving
-* Content & Video Creation
+## 🛠️ Tech Stack
 
-I believe in learning by building, which is why I spend my time working on projects, exploring new technologies, and continuously improving my technical skills.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+* 🚀 Built AI-powered applications using Gemini API
+* 🎟️ Developed EventHub – Event Registration & Ticketing Platform
+* 🌐 Designed and deployed personal portfolio projects
+* 💡 Passionate about combining AI, data, and software engineering to create impactful solutions
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🎟️ EventHub
+
+A modern platform for event registration, ticketing, and attendance management.
+
+**Tech Stack:** React • Node.js • MongoDB • Express
+
+---
+
 ### 🤖 AI Chatbot
 
-An intelligent chatbot powered by Google's Gemini API.
+An intelligent conversational assistant powered by Gemini API.
 
-**Tech Used**
-
-* HTML
-* CSS
-* JavaScript
-* Gemini API
-
-**Highlights**
-
-* Conversational AI interface
-* Real-time responses
-* Clean and responsive UI
+**Tech Stack:** JavaScript • Gemini API • HTML • CSS
 
 ---
 
-### 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio
 
-A modern portfolio website showcasing my skills, projects, and achievements.
+A responsive portfolio showcasing projects, achievements, and technical skills.
 
-**Tech Used**
-
-* HTML
-* CSS
-* JavaScript
-
-**Highlights**
-
-* Responsive design
-* Project showcase
-* Contact section
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-### 📊 Upcoming Data Science Project
+## 📊 GitHub Analytics
 
-Currently planning and developing a data-focused project involving analytics, visualization, and insights using Python.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshohri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🛠 Tech Stack
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshohri&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Languages
-
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Editor-red?style=for-the-badge)
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🔥 Contribution Streak
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshohri&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Darsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darshohri\&theme=tokyo-night)]()
+
+---
+
+## 📚 Currently Exploring
+
+* Machine Learning
 * Data Structures & Algorithms
-* Machine Learning Fundamentals
-* Python for Data Science
-* AI Application Development
-* Database Management Systems
+* Generative AI Applications
+* System Design Fundamentals
+* Cloud & Deployment Technologies
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darsh-ohri/)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:darshohri@gmail.com)
+<a href="https://www.linkedin.com/in/darsh-ohri/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
 
 ---
 
-### Code. Data. Create.
+<div align="center">
+
+### Code. Build. Learn. Repeat. 🚀
+
+</div>
+
+<!-- Contribution Snake (enable after adding GitHub Action)
+
+![snake gif](https://github.com/darshohri/darshohri/blob/output/github-contribution-grid-snake.svg)
+
+-->
