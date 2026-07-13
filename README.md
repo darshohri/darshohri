@@ -97,16 +97,6 @@ Modern event registration, ticketing, and attendance management platform.
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=darshohri&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
