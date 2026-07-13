@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full-Stack+Developer;ACM+Core+Member;Hackathon+Enthusiast;Building+AI-Powered+Solutions" />
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -135,13 +135,13 @@ Modern event registration, ticketing, and attendance management platform.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-   
+&nbsp;&nbsp;
 
-<a href="mailto:darshohri@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=darshohri@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-   
+&nbsp;&nbsp;
 
 <a href="https://portfolio-darshohri.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
