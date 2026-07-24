@@ -38,7 +38,7 @@
 
 ### 🚀 Explore My Portfolio
 
-<a href="https://portfolio-darshohri.vercel.app" target="_blank">
+<a href="https://darsh-ohri-portfolio.ai.studio" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
