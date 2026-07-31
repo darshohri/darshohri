@@ -101,7 +101,7 @@ Modern event registration, ticketing, and attendance management platform.
 
 <div align="center">
 
-<img src="https://github.com/darshohri&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=darshohri&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
 
 </div>
 
