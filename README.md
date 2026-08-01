@@ -48,10 +48,9 @@
 
 ## 🏆 Achievements
 
-* 🥉 Participant at Hack-O-Mania 2.0
+* 🎯 Active participant in hackathons and technical competitions
 * 🏅 ACM Core Member
 * 🚀 Built multiple AI, web, and software development projects
-* 🎯 Active participant in hackathons and technical competitions
 
 ---
 
