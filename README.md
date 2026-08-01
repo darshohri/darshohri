@@ -48,9 +48,13 @@
 
 ## 🏆 Achievements
 
-* 🎯 Active participant in hackathons and technical competitions
-* 🏅 ACM Core Member
-* 🚀 Built multiple AI, web, and software development projects
+- 🏅 ACM Core Member at NMIMS Chandigarh
+- 🥇 Top 67 Nationwide – Confluence 2.0 International Innovation Hackathon
+- 🤖 Google Solution Challenge 2026 Participant
+- 🚀 Developed multiple AI, Full-Stack, and Data Science projects
+- 💡 Exploring AI Agents, LLMs, and BYOK Architectures
+- 🎯 Active Hackathon & Technical Competition Participant
+- 🌟 Passionate about Open Source and Building Useful Products
 
 ---
 
