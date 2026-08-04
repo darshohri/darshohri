@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="75%" alt="Darsh Ohri Banner">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:991B1B,100:DC2626&text=Darsh%20Ohri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Science%20•%20Full%20Stack&descAlignY=58&descSize=20"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Turning+Ideas+into+Products;Hackathons+%7C+Data+Science+%7C+Full-Stack;Always+Learning+Something+New" />
 
