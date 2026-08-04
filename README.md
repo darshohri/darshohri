@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_CUSTOM_BANNER_URL_HERE" width="100%" alt="Darsh Ohri Banner"/>
+ <img src="./banner.png" width="100%" alt="Darsh Ohri Banner">
 
 # Hi there, I'm Darsh Ohri 👋
 
