@@ -8,11 +8,18 @@
 
 <div align="center">
 
-<a href="https://github.com/darshohri">GitHub</a> •
-<a href="https://www.linkedin.com/in/darsh-ohri/">LinkedIn</a> •
-<a href="mailto:darshohri@gmail.com">Email</a> •
-<a href="https://portfolio-darshohri.vercel.app">Portfolio</a> •
-<a href="https://leetcode.com/u/darshohri/">LeetCode</a>
+<a href="https://github.com/darshohri">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/darsh-ohri/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="mailto:darshohri@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
 
 </div>
 
