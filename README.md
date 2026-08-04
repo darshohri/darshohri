@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="85%" alt="Darsh Ohri Banner">
+<img src="./banner.png" width="75%" alt="Darsh Ohri Banner">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Turning+Ideas+into+Products;Hackathons+%7C+Data+Science+%7C+Full-Stack;Always+Learning+Something+New" />
 
