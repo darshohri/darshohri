@@ -1,153 +1,261 @@
 <div align="center">
 
-# Hi there, I'm Darsh Ohri 
+<img src="YOUR_CUSTOM_BANNER_URL_HERE" width="100%" alt="Darsh Ohri Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full-Stack+Developer;ACM+Core+Member;Hackathon+Enthusiast;Building+AI-Powered+Solutions" />
+# Hi there, I'm Darsh Ohri 👋
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Turning+Ideas+into+Products;Hackathons+%7C+Data+Science+%7C+Full-Stack;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br/>
 
-</div>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech CSE (Data Science) @ NMIMS Chandigarh
-* 💻 Passionate about AI, Data Science, Full-Stack Development, and Software Engineering
-* 🏆 ACM Core Member & Hackathon Participant
-* 🌱 Currently learning Machine Learning, DSA, System Design, and Cloud Technologies
-* ⚡ Building intelligent and user-focused applications that solve real-world problems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
-
-</div>
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-### 🚀 Explore My Portfolio
-
-<a href="https://darsh-ohri-portfolio.ai.studio" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.linkedin.com/in/darsh-ohri/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-darshohri.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/darshohri/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:darshohri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🚀 About Me
 
-- 🏅 ACM Core Member at NMIMS Chandigarh
-- 🥇 Top 67 Nationwide – Confluence 2.0 International Innovation Hackathon
-- 🤖 Google Solution Challenge 2026 Participant
-- 🚀 Developed multiple AI, Full-Stack, and Data Science projects
-- 💡 Exploring AI Agents, LLMs, and BYOK Architectures
-- 🎯 Active Hackathon & Technical Competition Participant
-- 🌟 Passionate about Open Source and Building Useful Products
+🎓 B.Tech CSE (Data Science) student at **SVKM's NMIMS Chandigarh**
 
----
+I'm passionate about building software that combines **AI**, **data**, and **modern web technologies** to solve practical problems.
 
-## 🚀 Featured Projects
+Currently focused on strengthening my foundations while building projects that improve my skills in software engineering, full-stack development, and intelligent systems.
 
-### 🏥 Lumiere
-
-Created a patient record matching system for Hack-O-Mania 2.0 that reconciles duplicate records across disparate healthcare databases.
-
-**Tech Stack:** Next.js • React • TailwindCSS • FastAPI • Python • PostgreSQL
+* 💻 AI • Data Science • Full-Stack Development
+* 🏆 ACM Core Member
+* 🥇 Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon
+* 🤖 Google Solution Challenge 2026 Participant
+* 🌱 Exploring AI Agents, LLMs, BYOK Architectures & Machine Learning
+* 🚀 Always building, learning, and improving
 
 ---
 
-### 🤖 BYOK (Bring Your Own Key)
+# 💼 Experience
 
-An AI chatbot assistant that enables users to securely use their own Google Gemini API key for personalized AI interactions.
+### 🎬 Social Media & Marketing Intern — MAG Insights
 
-**Tech Stack:** JavaScript • Gemini API • HTML • CSS
-
----
-
-### 🥗 NutriDish
-
-Built an adaptive meal planning platform that helps users analyze ingredient nutrition and monitor daily calorie limits.
-
-**Tech Stack:** Java • OOP • Data Management
+* Produced promotional content and marketing assets
+* Edited professional marketing videos
+* Contributed to digital campaigns and product awareness
+* Collaborated with cross-functional teams on content strategy
 
 ---
 
-### 🎓 Campus Connect
+# 🛠️ Tech Stack
 
-Developed a responsive web application that connects university students with alumni mentors for career guidance and professional networking.
-
-**Tech Stack:** React • Node.js • MongoDB
-
----
-
-### 🎟️ EventHub
-
-Modern event registration, ticketing, and attendance management platform.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-## 🔥 Contribution Streak
+## 💻 Languages
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=darshohri&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
 
 </div>
 
----
-
-## 📈 Activity Graph
+## 🌐 Frontend
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshohri&theme=github-dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</div>
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</div>
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</div>
+
+## 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Antigravity-AI%20Editor-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📚 Currently Exploring
+# 📜 Certifications & Programs
 
-* Machine Learning
-* Data Structures & Algorithms
-* Generative AI Applications
-* System Design
-* Cloud & Deployment Technologies
+* 🎓 Tata GenAI Powered Data Analytics Virtual Experience
+* 💼 JPMorgan Chase Quantitative Research Virtual Experience
+* 📊 Deloitte Technology Consulting Virtual Experience
+* 🤖 Google Solution Challenge 2026
+* 🏆 ACM Core Member
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 Lumiere
+
+AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0**.
+
+**Tech**
+
+Next.js • React • TailwindCSS • FastAPI • Python • PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 BYOK
+
+Bring Your Own Key AI chatbot using the Google Gemini API.
+
+**Tech**
+
+JavaScript • HTML • CSS • Gemini API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🥗 NutriDish
+
+Adaptive meal planning platform with nutrition analysis and calorie tracking.
+
+**Tech**
+
+Java • OOP • Data Management
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎟️ EventHub
+
+Modern event registration and attendance management platform.
+
+**Tech**
+
+React • Node.js • Express • MongoDB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 Campus Connect
+
+University networking platform connecting students with alumni mentors.
+
+**Tech**
+
+React • Node.js • MongoDB
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚧 Coming Soon
+
+Currently building exciting AI and Full-Stack projects.
+
+⭐ Stay tuned.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+* 🤖 Building AI-powered applications
+* 📈 Strengthening Data Structures & Algorithms
+* 🧠 Learning Machine Learning fundamentals
+* ☁️ Exploring cloud deployment
+* 🏗️ Improving scalable backend architecture
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=darshohri&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshohri&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/darsh-ohri/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+  
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=darshohri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:darshohri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://portfolio-darshohri.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -156,11 +264,15 @@ Modern event registration, ticketing, and attendance management platform.
 
 <div align="center">
 
-### 💡 Code • Build • Learn • Repeat 🚀
+> **"Turning ideas into products, one commit at a time."**
+
+### ⭐ Thanks for visiting my profile!
+
+**Code • Build • Learn • Repeat 🚀**
 
 </div>
 
-<!-- Enable after setting up the GitHub Snake Action
+<!-- Enable after setting up GitHub Snake Action
 
 ![snake gif](https://github.com/darshohri/darshohri/blob/output/github-contribution-grid-snake.svg)
 
