@@ -9,13 +9,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/darsh-ohri/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block;" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="display:inline-block;" alt="LinkedIn"/>
 </a><a href="https://portfolio-darshohri.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="display:inline-block;" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" style="display:inline-block;" alt="Portfolio"/>
 </a><a href="https://leetcode.com/u/darshohri/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="display:inline-block;" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" style="display:inline-block;" alt="LeetCode"/>
 </a><a href="mailto:darshohri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block;" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" style="display:inline-block;" alt="Gmail"/>
 </a>
 
 </div>
