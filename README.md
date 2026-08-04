@@ -37,7 +37,7 @@ Currently focused on strengthening my foundations while building projects that i
 * Strengthened frontend development fundamentals through hands-on projects
 * Worked on responsive layouts and clean UI implementation
 * Applied best practices for writing maintainable and reusable code
-* Completed a structured Web Development Mentorship Program conducted by **Futureex.ai** in association with LaunchED Global :contentReference[oaicite:1]{index=1}
+* Completed a structured Web Development Mentorship Program conducted by **Futureex.ai** in association with LaunchED Global
 
 ---
 
