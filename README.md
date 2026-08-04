@@ -222,7 +222,7 @@ Currently building exciting AI and Full-Stack projects.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=darshohri&theme=github-dark-blue&hide_border=true"/>
+<img src="<img src="https://github-readme-streak-stats-eight.vercel.app/?user=darshohri&theme=github-dark-blue&hide_border=true" />"/>
 
 </div>
 
