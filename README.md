@@ -2,27 +2,23 @@
 
  <img src="./banner.png" width="100%" alt="Darsh Ohri Banner">
 
-# Hi there, I'm Darsh Ohri 👋
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Turning+Ideas+into+Products;Hackathons+%7C+Data+Science+%7C+Full-Stack;Always+Learning+Something+New" />
 
 <br/>
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/darsh-ohri/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block;" alt="LinkedIn"/>
+</a><a href="https://portfolio-darshohri.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="display:inline-block;" alt="Portfolio"/>
+</a><a href="https://leetcode.com/u/darshohri/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="display:inline-block;" alt="LeetCode"/>
+</a><a href="mailto:darshohri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline-block;" alt="Gmail"/>
 </a>
 
-<a href="https://portfolio-darshohri.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/darshohri/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:darshohri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
 <br/><br/>
 
