@@ -269,11 +269,11 @@ React • Node.js • MongoDB
 
 <div align="center">
 
-> **"Turning ideas into products, one commit at a time."**
+<h3><i>"Turning ideas into products, one commit at a time."</i></h3>
 
-### ⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
 
-**Code • Build • Learn • Repeat 🚀**
+<b>Code • Build • Learn • Repeat 🚀</b>
 
 </div>
 
