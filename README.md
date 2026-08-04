@@ -8,15 +8,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/darsh-ohri/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="display:inline-block;" alt="LinkedIn"/>
-</a><a href="https://portfolio-darshohri.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" style="display:inline-block;" alt="Portfolio"/>
-</a><a href="https://leetcode.com/u/darshohri/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" style="display:inline-block;" alt="LeetCode"/>
-</a><a href="mailto:darshohri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" style="display:inline-block;" alt="Gmail"/>
-</a>
+<a href="https://github.com/darshohri">GitHub</a> •
+<a href="https://www.linkedin.com/in/darsh-ohri/">LinkedIn</a> •
+<a href="mailto:darshohri@gmail.com">Email</a> •
+<a href="https://portfolio-darshohri.vercel.app">Portfolio</a> •
+<a href="https://leetcode.com/u/darshohri/">LeetCode</a>
 
 </div>
 
