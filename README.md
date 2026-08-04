@@ -6,25 +6,6 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/darshohri">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/darsh-ohri/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="mailto:darshohri@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-
-</div>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=darshohri&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
