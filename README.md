@@ -113,7 +113,6 @@ Currently focused on strengthening my foundations while building projects that i
 * 💼 JPMorgan Chase Quantitative Research Virtual Experience
 * 📊 Deloitte Technology Consulting Virtual Experience
 * 🤖 Google Solution Challenge 2026
-* 🏆 ACM Core Member
 
 ---
 
