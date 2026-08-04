@@ -115,25 +115,25 @@ Currently focused on strengthening my foundations while building projects that i
 
 <td width="50%" valign="top">
 
-## 🏥 Lumiere
+## 💰 FinWise AI
 
-AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0**.
+AI-powered personal finance platform featuring a conversational financial mentor, vision-based scam detection, intelligent goal tracking, and an immersive financial dashboard.
 
 **Tech**
 
-Next.js • React • TailwindCSS • FastAPI • Python • PostgreSQL
+Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Framer Motion • Firebase • Groq • Gemini
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 BYOK
+## 🏥 Lumiere
 
-Bring Your Own Key AI chatbot using the Google Gemini API.
+AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0** to intelligently reconcile duplicate patient records across disparate healthcare databases.
 
 **Tech**
 
-JavaScript • HTML • CSS • Gemini API
+Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 </td>
 
@@ -143,13 +143,13 @@ JavaScript • HTML • CSS • Gemini API
 
 <td width="50%" valign="top">
 
-## 🥗 NutriDish
+## 🤖 BYOK
 
-Adaptive meal planning platform with nutrition analysis and calorie tracking.
+Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
 
 **Tech**
 
-Java • OOP • Data Management
+JavaScript • HTML • CSS • Gemini API
 
 </td>
 
@@ -157,7 +157,7 @@ Java • OOP • Data Management
 
 ## 🎟️ EventHub
 
-Modern event registration and attendance management platform.
+Modern event registration, ticketing, and attendance management platform with an intuitive user experience.
 
 **Tech**
 
@@ -171,23 +171,25 @@ React • Node.js • Express • MongoDB
 
 <td width="50%" valign="top">
 
-## 🎓 Campus Connect
+## 🥗 NutriDish
 
-University networking platform connecting students with alumni mentors.
+Adaptive meal planning platform that analyzes ingredients, nutrition, and daily calorie intake to support healthier lifestyles.
 
 **Tech**
 
-React • Node.js • MongoDB
+Java • OOP • Data Management
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚧 Coming Soon
+## 🎓 Campus Connect
 
-Currently building exciting AI and Full-Stack projects.
+University networking platform connecting students with alumni mentors for career guidance and professional networking.
 
-⭐ Stay tuned.
+**Tech**
+
+React • Node.js • MongoDB
 
 </td>
 
