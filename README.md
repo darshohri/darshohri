@@ -149,7 +149,7 @@ Bring Your Own Key AI chatbot that allows users to securely use their own API ke
 
 **Tech**
 
-JavaScript • HTML • CSS • Gemini API
+JavaScript • HTML • CSS • API
 
 </td>
 
