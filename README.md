@@ -23,9 +23,9 @@ Currently focused on strengthening my foundations while building projects that i
 * 💻 AI • Data Science • Full-Stack Development
 * 🏆 ACM Core Member
 * 🌱 Exploring AI Agents, LLMs, BYOK Architectures & Machine Learning
-* 🚀 Always building, learning, and improving
 * 🥇 Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon
 * 🤖 Google Solution Challenge 2026 Participant
+* 🚀 Always building, learning, and improving
 
 ---
 
