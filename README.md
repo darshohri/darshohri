@@ -223,7 +223,7 @@ React • Node.js • MongoDB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshohri&theme=github-compact&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshohri&bg_color=0d1117&color=ffffff&line=dc2626&point=ef4444&area=true&hide_border=true&radius=8" />
 
 </div>
 
