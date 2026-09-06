@@ -1,4 +1,4 @@
-e<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:991B1B,100:DC2626&text=Darsh%20Ohri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Data%20Science%20•%20Full%20Stack&descAlignY=58&descSize=20"/>
 
