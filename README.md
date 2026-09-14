@@ -20,12 +20,14 @@ I'm passionate about building software that combines **AI**, **data**, and **mod
 
 Currently focused on strengthening my foundations while building projects that improve my skills in software engineering, full-stack development, and intelligent systems.
 
-* 💻 AI • Data Science • Full-Stack Development
-* 🏆 ACM Core Member
-* 🌱 Exploring AI Agents, LLMs, BYOK Architectures & Machine Learning
-* 🥇 Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon
-* 🤖 Google Solution Challenge 2026 Participant
-* 🚀 Always building, learning, and improving
+# 🏆 Achievements
+
+* 🥇 **Winner — ACM-SIH Ideathon**
+* 🥇 **Winner — Byte Battle Competition**
+* 🏆 **Top 6 — StoxraHack 2026**
+* 🏅 **Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon**
+* 🤖 **Google Solution Challenge 2026 Participant**
+* 🏆 **ACM Core Member at NMIMS Chandigarh**
 
 ---
 
