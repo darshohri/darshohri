@@ -26,7 +26,6 @@ Currently focused on strengthening my foundations while building projects that i
 * 🥇 **Winner — Byte Battle Competition**
 * 🏆 **Top 6 — StoxraHack 2026**
 * 🏅 **Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon**
-* 🤖 **Google Solution Challenge 2026 Participant**
 * 🏆 **ACM Core Member at NMIMS Chandigarh**
 
 ---
@@ -34,6 +33,7 @@ Currently focused on strengthening my foundations while building projects that i
 # 💼 Experience
 
 ### 🌐 Web Development Intern — LaunchED Global
+**May 2026 – Jul 2026 · Remote**
 
 * Built responsive web pages using **HTML, CSS, and JavaScript**
 * Strengthened frontend development fundamentals through hands-on projects
@@ -44,6 +44,7 @@ Currently focused on strengthening my foundations while building projects that i
 ---
 
 ### 🎬 Social Media & Marketing Intern — MAG Insights
+**Jan 2026 – Mar 2026 · Hybrid**
 
 * Produced promotional content and marketing assets
 * Edited professional marketing videos
@@ -119,6 +120,7 @@ Currently focused on strengthening my foundations while building projects that i
 <td width="50%" valign="top">
 
 ## 💰 [FinWise AI](https://getfinwise.vercel.app)
+**Live Demo ↗**
 
 AI-powered personal finance platform featuring a conversational financial mentor, vision-based scam detection, intelligent goal tracking, and an immersive financial dashboard.
 
@@ -131,6 +133,7 @@ Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Frame
 <td width="50%" valign="top">
 
 ## 🤖 [BYOK](https://byok-two.vercel.app)
+**Live Demo ↗**
 
 Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
 
