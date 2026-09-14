@@ -21,7 +21,7 @@ I'm passionate about building software that combines **AI**, **data**, and **mod
 Currently focused on strengthening my foundations while building projects that improve my skills in software engineering, full-stack development, and intelligent systems.
 
 * 🥇 **Winner — ACM-SIH Ideathon**
-* 🥇 **1st Place — Byte Battle | Code2Career Club
+* 🥇 **1st Place — Byte Battle | Code2Career Club**
 * 🏆 **Top 6 — StoxraHack 2026**
 * 🏅 **Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon**
 * 🏆 **ACM Core Member at NMIMS Chandigarh**
