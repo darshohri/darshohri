@@ -20,10 +20,8 @@ I'm passionate about building software that combines **AI**, **data**, and **mod
 
 Currently focused on strengthening my foundations while building projects that improve my skills in software engineering, full-stack development, and intelligent systems.
 
-# 🏆 Achievements
-
 * 🥇 **Winner — ACM-SIH Ideathon**
-* 🥇 **Winner — Byte Battle Competition**
+* 🥇 **1st Place — Byte Battle | Code2Career Club
 * 🏆 **Top 6 — StoxraHack 2026**
 * 🏅 **Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon**
 * 🏆 **ACM Core Member at NMIMS Chandigarh**
@@ -122,7 +120,7 @@ Currently focused on strengthening my foundations while building projects that i
 ## 💰 [FinWise AI](https://getfinwise.vercel.app)
 **Live Demo ↗**
 
-AI-powered personal finance platform featuring a conversational financial mentor, vision-based scam detection, intelligent goal tracking, and an immersive financial dashboard.
+AI-powered personal finance platform combining an AI financial mentor, scam & fraud detection, financial goal tracking, interactive market simulations, and gamified financial education.
 
 **Tech**
 
@@ -151,7 +149,7 @@ JavaScript • HTML • CSS • Gemini API
 
 ## 🏥 Lumiere
 
-AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0** to intelligently reconcile duplicate patient records across disparate healthcare databases.
+AI-powered patient identity resolution platform designed to reconcile duplicate and fragmented healthcare records using intelligent matching and confidence-based resolution.
 
 **Tech**
 
