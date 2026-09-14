@@ -98,11 +98,12 @@ Currently focused on strengthening my foundations while building projects that i
 
 ---
 
-# 📜 Certifications & Programs
+# 📜 Certifications & Virtual Experiences
 
 * 🎓 Tata GenAI Powered Data Analytics Virtual Experience
 * 💼 JPMorgan Chase Quantitative Research Virtual Experience
 * 📊 Deloitte Technology Consulting Virtual Experience
+* 🧠 BCG GenAI Virtual Experience
 * 🤖 Google Solution Challenge 2026
 
 ---
