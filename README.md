@@ -115,7 +115,7 @@ Currently focused on strengthening my foundations while building projects that i
 
 <td width="50%" valign="top">
 
-## 💰 FinWise AI
+## 💰 [FinWise AI](https://getfinwise.vercel.app)
 
 AI-powered personal finance platform featuring a conversational financial mentor, vision-based scam detection, intelligent goal tracking, and an immersive financial dashboard.
 
@@ -127,13 +127,13 @@ Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Frame
 
 <td width="50%" valign="top">
 
-## 🏥 Lumiere
+## 🤖 [BYOK](https://byok-two.vercel.app)
 
-AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0** to intelligently reconcile duplicate patient records across disparate healthcare databases.
+Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
 
 **Tech**
 
-Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
+JavaScript • HTML • CSS • Gemini API
 
 </td>
 
@@ -143,13 +143,13 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## 🤖 BYOK
+## 🏥 Lumiere
 
-Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
+AI-powered healthcare record reconciliation platform built during **Hack-O-Mania 2.0** to intelligently reconcile duplicate patient records across disparate healthcare databases.
 
 **Tech**
 
-JavaScript • HTML • CSS • API
+Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 </td>
 
