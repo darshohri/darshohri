@@ -159,22 +159,6 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## 🎟️ EventHub
-
-Modern event registration, ticketing, and attendance management platform with an intuitive user experience.
-
-**Tech**
-
-React • Node.js • Express • MongoDB
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ## 🥗 NutriDish
 
 Adaptive meal planning platform that analyzes ingredients, nutrition, and daily calorie intake to support healthier lifestyles.
@@ -185,6 +169,10 @@ Java • OOP • Data Management
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🎓 Campus Connect
@@ -194,6 +182,18 @@ University networking platform connecting students with alumni mentors for caree
 **Tech**
 
 React • Node.js • MongoDB
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎟️ EventHub
+
+Modern event registration, ticketing, and attendance management platform with an intuitive user experience.
+
+**Tech**
+
+React • Node.js • Express • MongoDB
 
 </td>
 
