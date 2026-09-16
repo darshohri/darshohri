@@ -147,7 +147,7 @@ JavaScript • HTML • CSS • Gemini API
 
 <td width="50%" valign="top">
 
-## 🏥 [Lumiere](https://lumiere-rho-red.vercel.app)
+## 🏥 [Lumiere](https://uselumiere.vercel.app)
 **Live Demo ↗**
 
 AI-powered patient identity resolution platform designed to reconcile duplicate and fragmented healthcare records using intelligent matching and confidence-based resolution.
