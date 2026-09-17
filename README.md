@@ -130,7 +130,7 @@ Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Frame
 
 <td width="50%" valign="top">
 
-## 🤖 [BYOK](https://byok-two.vercel.app)
+## 🤖 [BYOK](https://byok-ai.vercel.app)
 **Live Demo ↗**
 
 Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
