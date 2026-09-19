@@ -117,19 +117,6 @@ Currently focused on strengthening my foundations while building projects that i
 
 <td width="50%" valign="top">
 
-## 💰 [FinWise AI](https://getfinwise.vercel.app)
-**Live Demo ↗**
-
-AI-powered personal finance platform combining an AI financial mentor, scam & fraud detection, financial goal tracking, interactive market simulations, and gamified financial education.
-
-**Tech**
-
-Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Framer Motion • Firebase • Groq • Gemini
-
-</td>
-
-<td width="50%" valign="top">
-
 ## 🤖 [BYOK](https://byok-ai.vercel.app)
 **Live Demo ↗**
 
