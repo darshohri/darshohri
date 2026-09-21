@@ -252,7 +252,7 @@ React • Node.js • MongoDB
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:4px;">
 </a>
 
-<a href="https://portfolio-darshohri.vercel.app">
+<a href="https://darsh-ohri-portfolio.ai.studio">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin:4px;">
 </a>
 
