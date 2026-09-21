@@ -131,7 +131,7 @@ Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Frame
 
 <td width="50%" valign="top">
 
-## ⚡ [Ziro](https://zir0.vercel.app)
+## 🪙 [Ziro](https://zir0.vercel.app)
 **Live Demo ↗**
 
 Intelligent blockchain payment layer built to make money movement smarter, safer, and more resilient. Combines zero-gas Layer 2 micro-remittances, pre-flight AI scam and address poisoning protection, an offline-first SMS/QR vault engine, and privacy-preserving Zero-Knowledge credit scoring.
