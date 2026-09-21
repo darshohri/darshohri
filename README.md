@@ -20,6 +20,7 @@ I'm passionate about building software that combines **AI**, **data**, and **mod
 
 Currently focused on strengthening my foundations while building projects that improve my skills in software engineering, full-stack development, and intelligent systems.
 
+* 🥇 **1st Place | Plaksha Prayas Tech Hackathon 2026 (Future Finance Track)**
 * 🥇 **Winner — ACM-SIH Ideathon**
 * 🥇 **1st Place — Byte Battle | Code2Career Club**
 * 🏆 **Top 6 — StoxraHack 2026**
@@ -114,6 +115,19 @@ Currently focused on strengthening my foundations while building projects that i
 <table>
 
 <tr>
+
+<td width="50%" valign="top">
+
+## 💰 [FinWise AI](https://getfinwise.vercel.app)
+**Live Demo ↗**
+
+AI-powered personal finance platform combining an AI financial mentor, scam & fraud detection, financial goal tracking, interactive market simulations, and gamified financial education.
+
+**Tech**
+
+Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Framer Motion • Firebase • Groq • Gemini
+
+</td>
 
 <td width="50%" valign="top">
 
