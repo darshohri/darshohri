@@ -138,7 +138,7 @@ Intelligent blockchain payment layer built to make money movement smarter, safer
 
 **Tech**
 
-Next.js • React • TypeScript • FastAPI • Python • Tailwind CSS • Framer Motion • Polygon Amoy • ERC-4337 • WebCrypto API • SnarkJS • Twilio
+Next.js • React • TypeScript • FastAPI • Python • Tailwind CSS • Framer Motion • Polygon Amoy
 
 </td>
 
