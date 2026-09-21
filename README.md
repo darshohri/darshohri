@@ -131,6 +131,23 @@ Next.js • React • FastAPI • Python • Tailwind CSS • Three.js • Frame
 
 <td width="50%" valign="top">
 
+## ⚡ [Ziro](https://zir0.vercel.app)
+**Live Demo ↗**
+
+Intelligent payment layer built to make money movement smarter, safer, and more resilient. Combines zero-gas Layer 2 micro-remittances, pre-flight AI scam and address poisoning protection, an offline-first SMS/QR vault engine, and privacy-preserving Zero-Knowledge credit scoring.
+
+**Tech**
+
+Next.js • React • TypeScript • FastAPI • Python • Tailwind CSS • Framer Motion • Polygon Amoy • ERC-4337 • WebCrypto API • SnarkJS • Twilio
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🤖 [BYOK](https://byok-ai.vercel.app)
 **Live Demo ↗**
 
@@ -141,10 +158,6 @@ Bring Your Own Key AI chatbot that allows users to securely use their own API ke
 JavaScript • HTML • CSS • Gemini API
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -159,6 +172,10 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🥗 NutriDish
@@ -171,10 +188,6 @@ Java • OOP • Data Management
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ## 🎓 Campus Connect
@@ -184,18 +197,6 @@ University networking platform connecting students with alumni mentors for caree
 **Tech**
 
 React • Node.js • MongoDB
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎟️ EventHub
-
-Modern event registration, ticketing, and attendance management platform with an intuitive user experience.
-
-**Tech**
-
-React • Node.js • Express • MongoDB
 
 </td>
 
