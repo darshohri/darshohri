@@ -178,7 +178,8 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## 🥗 NutriDish
+## 🥗 [NutriDish](https://nutridish.onrender.com)
+**Live Demo ↗**
 
 Adaptive meal planning platform that analyzes ingredients, nutrition, and daily calorie intake to support healthier lifestyles.
 
@@ -190,7 +191,8 @@ Java • OOP • Data Management
 
 <td width="50%" valign="top">
 
-## 🎓 Campus Connect
+## 🎓 [Campus Connect](https://campus-connect-true.vercel.app)
+**Live Demo ↗**
 
 University networking platform connecting students with alumni mentors for career guidance and professional networking.
 
