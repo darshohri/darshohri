@@ -106,6 +106,7 @@ Currently focused on strengthening my foundations while building projects that i
 * 💼 JPMorgan Chase Quantitative Research Virtual Experience
 * 📊 Deloitte Technology Consulting Virtual Experience
 * 🧠 BCG GenAI Virtual Experience
+* 💬 Vanderbilt University – Prompt Engineering for ChatGPT
 * 🤖 Google Solution Challenge 2026
 
 ---
