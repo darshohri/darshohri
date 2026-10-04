@@ -107,7 +107,7 @@ Currently focused on strengthening my foundations while building projects that i
 * 📊 Deloitte Technology Consulting Virtual Experience
 * 🧠 BCG GenAI Virtual Experience
 * 💬 Vanderbilt University – Prompt Engineering for ChatGPT
-* 🪄 aws – Generative AI with Large Language Models
+* 🪄 Generative AI with Large Language Models – aws
 * 🤖 Google Solution Challenge 2026
 
 ---
