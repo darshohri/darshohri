@@ -180,6 +180,19 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
+## ⚖️ [Verdict](https://github.com/darshohri/Verdict)
+**Live Demo ↗**
+
+AI-powered product evaluation engine designed to help you make smarter purchasing decisions. Instantly crawls reviews, analyzes price trends, and synthesizes a clear BUY, WAIT, or AVOID verdict.
+
+**Tech**
+
+Next.js • React • Tailwind CSS • FastAPI • Python • Apify • Groq
+
+</td>
+
+<td width="50%" valign="top">
+
 ## 🥗 [NutriDish](https://nutridish.onrender.com)
 **Live Demo ↗**
 
@@ -191,22 +204,10 @@ Java • OOP • Data Management
 
 </td>
 
-<td width="50%" valign="top">
-
-## 🎓 [Campus Connect](https://campus-connect-true.vercel.app)
-**Live Demo ↗**
-
-University networking platform connecting students with alumni mentors for career guidance and professional networking.
-
-**Tech**
-
-React • Node.js • MongoDB
-
-</td>
-
 </tr>
 
 </table>
+
 
 ---
 
