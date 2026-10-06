@@ -180,7 +180,7 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## ⚖️ [Verdict](https://github.com/darshohri/Verdict)
+## ⚖️ [Verdict](https://verdict-live.vercel.app)
 **Live Demo ↗**
 
 AI-powered product evaluation engine designed to help you make smarter purchasing decisions. Instantly crawls reviews, analyzes price trends, and synthesizes a clear BUY, WAIT, or AVOID verdict.
