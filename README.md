@@ -211,13 +211,13 @@ Java • OOP • Data Management
 
 ---
 
-# 🎯 Current Focus
+# 🎯 What I'm Building & Learning
 
-* 🤖 Building AI-powered applications
-* 📈 Strengthening Data Structures & Algorithms
-* 🧠 Learning Machine Learning fundamentals
-* ☁️ Exploring cloud deployment
-* 🏗️ Improving scalable backend architecture
+- 🤖 **AI Engineering** — Building intelligent applications using LLMs, prompt engineering, and AI-driven workflows.
+- 🧠 **Machine Learning & Data Science** — Exploring ML algorithms, model evaluation, and data-driven problem-solving.
+- 🧩 **DSA & Problem Solving** — Strengthening algorithmic thinking and writing efficient, optimized code.
+- 🏗️ **Software & Backend Engineering** — Developing robust APIs, database-driven applications, and scalable system architectures.
+- ☁️ **Deployment & Production** — Learning to deploy, integrate, and maintain applications beyond the development environment.
 
 ---
 
