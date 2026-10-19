@@ -151,14 +151,14 @@ Next.js • React • TypeScript • FastAPI • Python • Tailwind CSS • Fra
 
 <td width="50%" valign="top">
 
-## 🤖 [BYOK](https://byok-ai.vercel.app)
+## 🌐 [Kin](https://kin-path.vercel.app)
 **Live Demo ↗**
 
-Bring Your Own Key AI chatbot that allows users to securely use their own API keys for personalized AI conversations.
+Living proof-of-work and verified talent network designed to replace static resumes with empirical code artifacts. Combines interactive force-directed physics graphs, multi-hop campus trust routing, a high-speed Groq AI career copilot, real-time cross-account direct messaging, and Gemini Vision credential verification.
 
 **Tech**
 
-JavaScript • HTML • CSS • API
+Next.js • React • TypeScript • FastAPI • Python • Tailwind CSS • Framer Motion • Groq • Gemini • Firebase • PostgreSQL
 
 </td>
 
@@ -181,6 +181,19 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
+## 🛡️ [CrossCheck](https://github.com/parteek1907/AI-Ideathon)
+**Live Demo ↗**
+
+Institutional AI misinformation forensics and citizen protection platform. Combines a 13-step multimodal verification pipeline indexing global news wires, a multilingual Groq Whisper voice intake studio, an out-of-band Family Safe-Word protocol against voice clones, and official 4-stage cybercrime/bank dispute Action Packs.
+
+**Tech**
+
+Next.js • React • Tailwind CSS • Gemini • Groq Whisper • Meta WhatsApp API • GDELT
+
+</td>
+
+<td width="50%" valign="top">
+
 ## ⚖️ [Verdict](https://verdict-live.vercel.app)
 **Live Demo ↗**
 
@@ -189,19 +202,6 @@ AI-powered product evaluation engine designed to help you make smarter purchasin
 **Tech**
 
 Next.js • React • Tailwind CSS • FastAPI • Python • Apify • Groq
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🥗 [NutriDish](https://nutridish.onrender.com)
-**Live Demo ↗**
-
-Adaptive meal planning platform that analyzes ingredients, nutrition, and daily calorie intake to support healthier lifestyles.
-
-**Tech**
-
-Java • OOP • Data Management
 
 </td>
 
