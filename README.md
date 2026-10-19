@@ -181,7 +181,7 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## 🛡️ [CrossCheck]
+## 🛡️ CrossCheck
 
 Institutional AI misinformation forensics and citizen protection platform. Combines a 13-step multimodal verification pipeline indexing global news wires, a multilingual Groq Whisper voice intake studio, an out-of-band Family Safe-Word protocol against voice clones, and official 4-stage cybercrime/bank dispute Action Packs.
 
