@@ -26,7 +26,7 @@ Currently focused on strengthening my foundations while building projects that i
 * 🥇 **1st Place — Byte Battle | Code2Career Club**
 * 🏆 **Top 6 — StoxraHack 2026**
 * 🏅 **Top 67 Nationwide — Confluence 2.0 International Innovation Hackathon**
-* 🏆 **ACM Core Member at NMIMS Chandigarh**
+* 🧑‍💻 **ACM Core Member at NMIMS Chandigarh**
 
 ---
 
