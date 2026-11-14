@@ -181,14 +181,14 @@ Next.js • React • Tailwind CSS • FastAPI • Python • PostgreSQL
 
 <td width="50%" valign="top">
 
-## 🛡️ [CrossCheck](https://crosschecknow.vercel.app)
+## 🔑 [BYOK](https://byok-ai.vercel.app)
 **Live Demo ↗**
 
-Institutional AI misinformation forensics and citizen protection platform. Combines a 13-step multimodal verification pipeline indexing global news wires, a multilingual Groq Whisper voice intake studio, an out-of-band Family Safe-Word protocol against voice clones, and official 4-stage cybercrime/bank dispute Action Packs.
+AI workspace designed to let you use top AI models with your own API keys without expensive monthly subscriptions. Combines intelligent prompt routing across Gemini, Groq, and OpenRouter, secure local key storage, a rich markdown & math chat studio, and real-time token and cost tracking.
 
 **Tech**
 
-Next.js • React • Tailwind CSS • Gemini • Groq Whisper • Meta WhatsApp API • GDELT
+React • TypeScript • Tailwind CSS • Vite • Zustand • Firebase • Framer Motion • Gemini • Groq • OpenRouter
 
 </td>
 
